@@ -1,5 +1,5 @@
 # Hello-Github
-Learn to use Github
+Learn to use Github.
 How to use Github like a notebook?
 明月几时有?
 把酒问青天,
@@ -9,3 +9,6 @@ I wish I was special,so fucking special.
 But I am a creep,I am a weirdo.
 What the hell I am doing here？
 I don't belong here.
+You are too good to be true,
+can't take my eyes off you.
+
